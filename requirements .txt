@@ -1,2 +1,3 @@
 gradio
 langchain-google-genai
+python-dotenv
